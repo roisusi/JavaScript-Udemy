@@ -1,3 +1,3 @@
 # JavaScript
 
-First learn 12/7/2020+++
+Section 2
