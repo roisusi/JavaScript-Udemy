@@ -3,7 +3,7 @@
 
 <span>
 Github:
-<a href="https://github.com/jonasschmedtmann/html-css-course"> HTML and CSS git </a>
+<a href="https://github.com/jonasschmedtmann/complete-javascript-course"> JavaScript git </a>
 </span>
 <span>
 <br>
@@ -15,12 +15,16 @@ Resourses:
 <br>
 
 <h2>Lectures: </h2>
-Section 1 - 
+Section 1 - Welcome, Welcome,
+Welcome!
 <br>
 <span>
 Setting VS Code:
 <ul>
-  <li></li> 
+  <li>One Monokai Theme</li> 
+  <li>Prettier Formatter - Set default formatter</li>
+  <li>Auto Save - Setting->auto save-> onFocusChange</li>
+  <li>Word Wrap - on</li>
 </ul>
 </span>
 Information :
@@ -28,4 +32,5 @@ Information :
   <li></li> 
 </ul>
 
-Section 2 -
+Section 2 - JavaScript
+Fundamentals – Part 1
