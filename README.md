@@ -27,10 +27,10 @@ Setting VS Code:
   <li>Word Wrap - on</li>
 </ul>
 </span>
-Information :
-<ul>
-  <li></li> 
-</ul>
 
-Section 2 - JavaScript
-Fundamentals – Part 1
+Section 2 - JavaScript Fundamentals – Part 1
+
+<ul>
+  <li>Values and Variables - types and Data</li> 
+  <li>Operators - + - * /</li> 
+</ul>
