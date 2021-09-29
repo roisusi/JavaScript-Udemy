@@ -31,6 +31,6 @@ Setting VS Code:
 Section 2 - JavaScript Fundamentals – Part 1
 
 <ul>
-  <li>Values and Variables - types and Data</li> 
+  <li>Values and Variables - Types and Data</li> 
   <li>Operators - + - * /</li> 
 </ul>
