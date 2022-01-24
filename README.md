@@ -33,4 +33,20 @@ Section 2 - JavaScript Fundamentals – Part 1
 <ul>
   <li>Values and Variables - Types and Data</li> 
   <li>Operators - + - * /</li> 
+  <li>let, const, var</li> 
+  <li>Template Literals (`$()`)</li>
+  <li>if else</li>
+  <li>Type Conversion and Coercion (Number(inputyear))</li>
+  <li>Truthy and Falsy Values</li>
+  <li>Equality Operators: == vs. ===</li>
+  <li>Boolean Logic: || , && , !</li>
+  <li>The switch Statement</li>
+  <li>Statements and Expressions</li>
+  <li>The Conditional (Ternary) Operator</li>
+</ul>
+
+Section 3 - JavaScript Fundamentals – Part 2
+
+<ul>
+  <li>Strict Mode</li> 
 </ul>
