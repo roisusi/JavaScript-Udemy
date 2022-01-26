@@ -23,7 +23,7 @@ Setting VS Code:
 <ul>
   <li>One Monokai Theme</li> 
   <li>Prettier Formatter - Set default formatter</li>
-  <li>Auto Save - Setting->auto save-> onFocusChange</li>
+  <li>Auto Save - Setting-> auto save-> onFocusChange</li>
   <li>Word Wrap - on</li>
 </ul>
 </span>
@@ -49,4 +49,8 @@ Section 3 - JavaScript Fundamentals – Part 2
 
 <ul>
   <li>Strict Mode</li> 
+  <li>Functions</li> 
+  <li>unction Declarations vs. Expressions</li> 
+  <li>Arrow Function</li> 
+  <li>Functions Calling Other Functions</li>
 </ul>
