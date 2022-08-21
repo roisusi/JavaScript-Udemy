@@ -25,6 +25,7 @@ Setting VS Code:
   <li>Prettier Formatter - Set default formatter</li>
   <li>Auto Save - Setting-> auto save-> onFocusChange</li>
   <li>Word Wrap - on</li>
+  <li>Forma On Save - "Checked"</li>
 </ul>
 </span>
 
