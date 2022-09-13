@@ -17,6 +17,7 @@ Resourses:
 <h2>Lectures: </h2>
 Section 1 - Welcome, Welcome,
 Welcome!
+
 <br>
 <span>
 Setting VS Code:
