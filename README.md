@@ -1,4 +1,4 @@
-<h1> Undemy JavaScript Course </h1>
+<h1> Udemy JavaScript Course </h1>
 <h2> The Complete JavaScript Course 2021: From Zero to Expert! </h2>
 
 <span>
